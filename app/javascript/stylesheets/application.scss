@@ -1,8 +1,13 @@
 @tailwind base;
 @tailwind components;
+ 
 
 // Custom SCSS
+//@import "components/actiontext";
 @import "components/buttons";
 @import "components/forms";
+@import "components/typography";
+
+
 
 @tailwind utilities;
