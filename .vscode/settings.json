@@ -2,9 +2,10 @@
   "ruby.useLanguageServer": true,
   "ruby.useBundler": true,
   "ruby.intellisense": "rubyLocate",
+  "ruby.codeCompletion": "rcodetools",
   "ruby.format": "rufo",
   "files.associations": {
-    "*.html.erb": "html"
+    "*.html.erb": "erb"
   },
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
